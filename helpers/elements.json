@@ -1,0 +1,7 @@
+{
+    "sign-in-up-button": "a[href='/login']",
+    "login-email-input": "[data-qa='login-email']",
+    "login-password-input": "[data-qa='login-password']",
+    "cta-login-button": "[data-qa='login-button']",
+    "logged-in-as": "a:has-text('Logged in as')"
+}
